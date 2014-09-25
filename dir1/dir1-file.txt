@@ -1,2 +1,3 @@
 After sync , I have just added text to dir1-file.txt,
 To review how this working?
+Now i want to check with uypdating fiel..
