@@ -1,3 +1,8 @@
 The File is made for the branch 06 Testing.
 
+<<<<<<< HEAD
 Update 2.
+=======
+Update 2.
+Update 3.
+>>>>>>> branch06
